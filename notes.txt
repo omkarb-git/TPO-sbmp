@@ -1,0 +1,72 @@
+// interfaces//
+
+We cannot create object of interface.
+Interface provide full abstraction, its all mwthods are abstraction.
+Abstract class partial abstraction because it can have both methods abstract and non abstract.
+Public keyword is used while overriding abstract method in child class.
+
+
+
+//new features added in interface in JDK8//
+
+Before jdk8 interface could not be define implementation.
+We can now add default implementation for interface methods.
+Special use and does affect the intention behind interface.
+
+We can define static  
+
+
+
+// Marker interface or Tag interface//
+
+A interface is called merker interface when it provided as a handle by java interpreter to make a class so that it can provide special behaviour to it at runtime and they do not have any method declaration.
+
+
+//sudyyyyyyyyyyyyyy//
+difference between abstract class and interface
+
+
+//oops//
+1]Inheritance:
+        1]single
+        2]multiple
+        3]medieval
+        4]heirarchical
+        5]hybrid (except multiple)
+2]Polymorphism:
+        a]compile time: method overloading
+        b]runtime : method overriding
+3]Encapsulation 
+4]Abstraction
+
+
+//polymorphism//
+Method overloading:
+1] a class can have exactly same name anad different parameter method called Method overloading.
+
+
+//method overriding//
+1]Both the class having parent child relationship and have exactly same name and same parameter method called method overriding.
+
+
+
+//Encapsulation//
+1]it ia the process of wrapping data (variables) and the methods that operate on that data into single unit (class) while restricting direct access.
+2]Data hiding + control access = data Encapsulation
+
+
+
+
+//Abstraction//
+ 1]abstraction is the process of hiding implementation details and showing only the essential features of an object to the user.
+ 2]show what to do, hide how it is done + abstraction
+ 3] ways to achieve abstraction
+            a]abstract class
+            b] interface
+
+
+//linked list//
+1]linked data structure
+2] collection of nodes
+3]node contains data and next ref pointer  
+4]
